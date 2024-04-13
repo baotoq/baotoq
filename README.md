@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Bao
 
-## ⚡ Favorite languages and tools
+## ⚡ Favorite Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baotoq&theme=github_dark_dimmed&hide_progress=false&layout=compact)
+
+![Baotoq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baotoq&layout=compact&langs_count=6&theme=github_dark_dimmed&custom_title=Time+Spend+since+Apr+2024)
 
 ## :octocat: GitHub contributions
 
@@ -11,8 +13,6 @@
 ## :heart: My Pet Project
 
 [![Baotoq's Pet Project](https://github-readme-stats.vercel.app/api/pin/?username=baotoq&repo=micro-commerce&theme=github_dark_dimmed)](https://github.com/baotoq/micro-commerce)
-
-<!-- [![Baotoq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baotoq)](https://github.com/baotoq/github-readme-stats) -->
 
 
 ## 📫 How to reach me
