@@ -1,14 +1,21 @@
-# Hi there 👋, I'm Bao.
+# Hi there 👋, I'm Bao
 
-## ⚡ Favorite languages and tools.
+## ⚡ Favorite languages and tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baotoq&theme=github_dark_dimmed&hide_progress=false&layout=compact)
 
-## :octocat: GitHub contributions.
+## :octocat: GitHub contributions
 
 ![Baotoq's GitHub stats](https://github-readme-stats.vercel.app/api?username=baotoq&theme=github_dark_dimmed&show_icons=true&rank_icon=default&include_all_commits=true)
 
-## 📫 How to reach me.
+## :heart: My Pet Project
+
+[![Baotoq's Pet Project](https://github-readme-stats.vercel.app/api/pin/?username=baotoq&repo=micro-commerce&theme=github_dark_dimmed)](https://github.com/baotoq/micro-commerce)
+
+<!-- [![Baotoq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baotoq)](https://github.com/baotoq/github-readme-stats) -->
+
+
+## 📫 How to reach me
 
 [Linkedin](https://www.linkedin.com/in/baotoq/)
 
