@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bao
 
-I don't write code — Claude Code does.
+## 😄 I don't write code — Claude Code does.
 
 ## ⚡ Favorite Languages
 
