@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Bao
 
+I don't write code — Claude Code does.
+
 ## ⚡ Favorite Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baotoq&theme=github_dark_dimmed&hide_progress=false&layout=compact)
