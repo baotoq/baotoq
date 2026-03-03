@@ -4,25 +4,25 @@
 
 ### 🧑‍💻 My Daily Workflow
 
-```
+<pre>
 ☕ Coffee
 📝 Write prompt
 🤖 Claude Code cooks
-👀 Review mass diff
+👀 Review mass diffs
 ✅ "Looks good to me"
 ☕ More coffee
 🔁 Repeat
-```
+</pre>
 
 ### 📊 How I Spend My Time
 
-```
-Arguing with AI in English         ████░░░░░░░░░░░░░  25%
-Staring at "Thinking..."           ████████░░░░░░░░░  45%
-Pretending to understand the diff  ███░░░░░░░░░░░░░░  15%
-Blindly approving diffs            ██░░░░░░░░░░░░░░░  10%
-Actually coding                    █░░░░░░░░░░░░░░░░   5%
-```
+<pre>
+Explaining what I want for the 5th time   ████░░░░░░░░░░░░░  25%
+Alt-tabbing while AI "Thinking..."        ████████░░░░░░░░░  45%
+Pretending to understand diffs            ███░░░░░░░░░░░░░░  15%
+Blindly approving diffs                   ██░░░░░░░░░░░░░░░  10%
+Actually coding                           █░░░░░░░░░░░░░░░░   5%
+</pre>
 
 ## ⚡ Favorite Languages
 
