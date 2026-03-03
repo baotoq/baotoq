@@ -4,8 +4,8 @@
 
 ## ⚡ Favorite Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baotoq&theme=github_dark_dimmed&hide_progress=false&layout=compact)
-![Baotoq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baotoq&layout=compact&langs_count=6&theme=github_dark_dimmed&custom_title=Time+Spend+since+2024)
+![Top Langs](./profile/top-langs.svg)
+![Baotoq's WakaTime stats](./profile/stats.svg)
 
 ## :octocat: GitHub contributions
 
