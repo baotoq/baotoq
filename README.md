@@ -13,8 +13,7 @@
 
 ## :heart: My Pet Project
 
-[![Baotoq's Pet Project](./profile/micro-commerce.svg)
-
+[![Baotoq's Pet Project](./profile/micro-commerce.svg)]
 
 ## 📫 How to reach me
 
