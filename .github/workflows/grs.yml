@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark_dimmed&custom_title=Time+Spend+since+2024
+          options: username=${{ github.repository_owner }}&theme=github_dark_dimmed&show_icons=true&rank_icon=default&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,6 +29,14 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=github_dark_dimmed&hide_progress=false&layout=compact
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate wakatime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark_dimmed&custom_title=Time+Spend+since+2024
+          path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card

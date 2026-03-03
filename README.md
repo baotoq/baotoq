@@ -1,19 +1,19 @@
 # Hi there 👋, I'm Bao
 
-## 😄 I don't write code — Claude Code does.
+## 😄 I don't write code — Claude Code does
 
 ## ⚡ Favorite Languages
 
 ![Top Langs](./profile/top-langs.svg)
-![Baotoq's WakaTime stats](./profile/stats.svg)
+![Baotoq's WakaTime stats](./profile/wakatime.svg)
 
 ## :octocat: GitHub contributions
 
-![Baotoq's GitHub stats](https://github-readme-stats.vercel.app/api?username=baotoq&theme=github_dark_dimmed&show_icons=true&rank_icon=default&include_all_commits=true)
+![Baotoq's GitHub stats](./profile/stats.svg)
 
 ## :heart: My Pet Project
 
-[![Baotoq's Pet Project](https://github-readme-stats.vercel.app/api/pin/?username=baotoq&repo=micro-commerce&theme=github_dark_dimmed)](https://github.com/baotoq/micro-commerce)
+[![Baotoq's Pet Project](./profile/micro-commerce.svg)
 
 
 ## 📫 How to reach me
