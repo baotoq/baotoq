@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bao
 
-## 🤖 I don't write code — I write prompts. Claude Code writes code.
+## 🤖 I don't write code — I write prompts. Claude Code writes code
 
 ### 🧑‍💻 My Daily Workflow
 
