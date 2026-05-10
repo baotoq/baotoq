@@ -27,6 +27,7 @@ Actually coding                           █░░░░░░░░░░░�
 ## ⚡ Favorite Languages
 
 ![Top Langs](./profile/top-langs.svg)
+![Baotoq's WakaTime stats](./profile/wakatime.svg)
 
 ## :octocat: GitHub contributions
 
