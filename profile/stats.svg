@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bao To's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 102, Total Commits  : 3982, Total PRs: 49, Total Issues: 5, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 102, Total Commits  : 3983, Total PRs: 49, Total Issues: 5, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.6847283741813;
+        stroke-dashoffset: 93.68289157312148;
       }
     }
   
