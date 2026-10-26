@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="249.89100000000002"
+            width="249.5655"
             height="8"
             fill="#178600"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="249.89100000000002"
+            x="249.5655"
             y="0"
-            width="75.33"
+            width="75.237"
             height="8"
             fill="#00ADD8"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="325.221"
+            x="324.8025"
             y="0"
-            width="50.592000000000006"
+            width="50.54549999999999"
             height="8"
             fill="#3178c6"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="375.813"
+            x="375.348"
             y="0"
-            width="40.3155"
+            width="40.269"
             height="8"
             fill="#858585"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="416.1285"
+            x="415.617"
             y="0"
-            width="25.203000000000003"
+            width="25.249499999999998"
             height="8"
             fill="#083fa1"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="441.3315"
+            x="440.86650000000003"
             y="0"
-            width="24.366"
+            width="24.459"
             height="8"
             fill="#858585"
           />
@@ -188,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 1,152 hrs 43 mins
+        C# - 1,152 hrs 52 mins
       </text>
     </g>
   
@@ -202,7 +202,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 233 hrs 27 mins
+        TypeScript - 233 hrs 32 mins
       </text>
     </g>
   
@@ -216,14 +216,14 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 116 hrs 13 mins
+        Markdown - 116 hrs 34 mins
       </text>
     </g>
   
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 112 hrs 20 mins
+        Other - 113 hrs 3 mins
       </text>
     </g>
   
